@@ -1,0 +1,13 @@
+﻿target_sources (oop2_ex02 PRIVATE "main.cpp"
+                                  "Form.cpp"
+                                  "FacultyValue.cpp"
+                                  "BaseField.cpp"
+                                  "Field.cpp"
+                                  "BaseValidator.cpp"
+                                  "IDValidator.cpp"
+                                  "MinValidator.cpp"
+                                  "NoDigitValidator.cpp"
+                                  "RangeValidator.cpp"
+                                  "Courses2YearValidator.cpp"
+                                  "Faculty2YearValidator.cpp"
+                                  "BaseFormValidator.cpp")
